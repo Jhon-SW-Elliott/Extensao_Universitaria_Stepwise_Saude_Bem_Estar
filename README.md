@@ -52,6 +52,12 @@ O Step Wise foi desenvolvido utilizando as melhores tecnologias para garantir de
 
 ---
 
+## 🔮 **Implementações Futuras**
+
+Se o **Step Wise** alcançar boa aceitação e contribuições significativas, o projeto será ampliado com melhorias contínuas e novas versões do aplicativo. Além disso, outras áreas de saúde e bem-estar poderão ser englobadas, com o desenvolvimento de novos aplicativos focados em beneficiar a população de forma geral, promovendo acessibilidade, educação e suporte tecnológico na área da saúde.
+
+---
+
 ## 📊 **Contribuições e Desenvolvimento**
 
 Este é um projeto acadêmico em constante evolução. Caso tenha interesse em contribuir, envie sugestões, relacione problemas encontrados ou crie um Pull Request.
