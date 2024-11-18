@@ -10,6 +10,15 @@
 
 ---
 
+## 📥 **Como Baixar e Usar**
+
+1. Acesse a seção de **Releases** no repositório do projeto.
+2. Baixe o arquivo APK mais recente ([`app-release-StepWise.apk`](https://github.com/Confederaction/stepwise-apk/releases/download/StepWise-1.0/app-release-StepWise.apk)) .
+3. Instale o aplicativo no seu dispositivo Android.
+4. Explore as funcionalidades e alcance seus objetivos de saúde!
+
+---
+
 ## 🌟 **Destaques do Aplicativo**
 
 ### ✅ **Criação de Dietas Personalizadas**
@@ -36,25 +45,6 @@
 **Step Wise** foi criado com a visão de **democratizar o acesso a ferramentas de saúde e bem-estar**, oferecendo soluções tecnológicas que auxiliem tanto indivíduos quanto profissionais no acompanhamento e gestão da saúde. Embora seja um excelente **suporte para a saúde pública**, ele não substitui o acompanhamento de um médico qualificado.
 
 **O aplicativo é um aliado, oferecendo suporte valioso para monitoramento e planejamento, sem deixar de enfatizar a importância de um acompanhamento médico especializado.**
-
----
-
-## 📥 **Como Baixar e Usar**
-
-1. Acesse a seção de **Releases** no repositório do projeto.
-2. Baixe o arquivo APK mais recente ([`app-release-StepWise.apk`](https://github.com/Confederaction/stepwise-apk/releases/download/StepWise-1.0/app-release-StepWise.apk)) .
-3. Instale o aplicativo no seu dispositivo Android.
-4. Explore as funcionalidades e alcance seus objetivos de saúde!
-
----
-
-## 🚀 **Tecnologias Utilizadas**
-
-O Step Wise foi desenvolvido utilizando as melhores tecnologias para garantir desempenho, usabilidade e segurança:
-- **Linguagem:** Kotlin
-- **Frameworks:** Android Jetpack, Firebase
-- **Bibliotecas:** Glide, iTextPDF, MPAndroidChart
-- **Arquitetura:** MVVM com ViewModel e LiveData
 
 ---
 
