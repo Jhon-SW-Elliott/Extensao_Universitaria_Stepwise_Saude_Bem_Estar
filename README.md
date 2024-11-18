@@ -79,4 +79,24 @@ Este é um projeto acadêmico em constante evolução. Caso tenha interesse em c
 # **Step Wise** - Tecnologia em Saúde e Bem-Estar
 ![Ícone do Aplicativo Step Wise](https://firebasestorage.googleapis.com/v0/b/projeto-saude-e-bem-estar.appspot.com/o/imagens_repositorio_git%2Fgit_stepWise%2Ficone_app_stepwise2.png?alt=media&token=74120d72-45c7-4e8e-ae62-89bb6b67eff8)
 
+# Imagens do Projeto
+
+Aqui estão as capturas de tela do projeto:
+
+![Screenshot 1](https://firebasestorage.googleapis.com/v0/b/projeto-saude-e-bem-estar.appspot.com/o/imagens_repositorio_git%2Fgit_stepWise%2FScreenshot_20241118_141648.png?alt=media&token=6a1650a7-0b8a-4182-a71a-b8b25534d4ee)
+![Screenshot 2](https://firebasestorage.googleapis.com/v0/b/projeto-saude-e-bem-estar.appspot.com/o/imagens_repositorio_git%2Fgit_stepWise%2FScreenshot_20241118_140050.png?alt=media&token=2eb7ac2c-a2b0-4bde-a70a-db3a2804caf7)
+![Screenshot 3](https://firebasestorage.googleapis.com/v0/b/projeto-saude-e-bem-estar.appspot.com/o/imagens_repositorio_git%2Fgit_stepWise%2FScreenshot_20241118_135826.png?alt=media&token=b99808eb-e672-4d6e-8e4d-b4d03d2b2285)
+![Screenshot 4](https://firebasestorage.googleapis.com/v0/b/projeto-saude-e-bem-estar.appspot.com/o/imagens_repositorio_git%2Fgit_stepWise%2FScreenshot_20241118_135656.png?alt=media&token=e90b1acf-42e6-45e0-b148-30a68651a5bd)
+![Screenshot 5](https://firebasestorage.googleapis.com/v0/b/projeto-saude-e-bem-estar.appspot.com/o/imagens_repositorio_git%2Fgit_stepWise%2FScreenshot_20241118_135628.png?alt=media&token=704720c6-d1aa-41fd-ac0e-c24c1f328cf2)
+![Screenshot 6](https://firebasestorage.googleapis.com/v0/b/projeto-saude-e-bem-estar.appspot.com/o/imagens_repositorio_git%2Fgit_stepWise%2FScreenshot_20241118_135600.png?alt=media&token=bbd04a68-40e4-490d-bc6e-6778f5022db4)
+![Screenshot 7](https://firebasestorage.googleapis.com/v0/b/projeto-saude-e-bem-estar.appspot.com/o/imagens_repositorio_git%2Fgit_stepWise%2FScreenshot_20241118_135526.png?alt=media&token=7d7a9e66-8bb8-4920-8fb5-eeefdb1a9d68)
+![Screenshot 8](https://firebasestorage.googleapis.com/v0/b/projeto-saude-e-bem-estar.appspot.com/o/imagens_repositorio_git%2Fgit_stepWise%2FScreenshot_20241118_135518.png?alt=media&token=73a4cf5d-db97-4fde-83c3-1611868e0513)
+![Screenshot 9](https://firebasestorage.googleapis.com/v0/b/projeto-saude-e-bem-estar.appspot.com/o/imagens_repositorio_git%2Fgit_stepWise%2FScreenshot_20241118_135507.png?alt=media&token=f8bcd034-3cb6-4bb0-aae1-15f8a3895e28)
+![Screenshot 10](https://firebasestorage.googleapis.com/v0/b/projeto-saude-e-bem-estar.appspot.com/o/imagens_repositorio_git%2Fgit_stepWise%2FScreenshot_20241118_134058.png?alt=media&token=143df0d6-bff4-4a6f-861c-590011c6dc28)
+![Screenshot 11](https://firebasestorage.googleapis.com/v0/b/projeto-saude-e-bem-estar.appspot.com/o/imagens_repositorio_git%2Fgit_stepWise%2FScreenshot_20241118_133455.png?alt=media&token=550bdaf3-01d3-4240-971f-401d4247c990)
+![Screenshot 12](https://firebasestorage.googleapis.com/v0/b/projeto-saude-e-bem-estar.appspot.com/o/imagens_repositorio_git%2Fgit_stepWise%2FScreenshot_20241118_133448.png?alt=media&token=00b0b427-3812-41fd-bb39-55150eecfdee)
+![Screenshot 13](https://firebasestorage.googleapis.com/v0/b/projeto-saude-e-bem-estar.appspot.com/o/imagens_repositorio_git%2Fgit_stepWise%2FScreenshot_20241118_113222.png?alt=media&token=a1451f79-0f2b-48af-8dae-2ecb51523723)
+![Screenshot 14](https://firebasestorage.googleapis.com/v0/b/projeto-saude-e-bem-estar.appspot.com/o/imagens_repositorio_git%2Fgit_stepWise%2FScreenshot_20241118_113205.png?alt=media&token=f9eaface-78e7-4c19-b405-5a789d1b9e90)
+![Screenshot 15](https://firebasestorage.googleapis.com/v0/b/projeto-saude-e-bem-estar.appspot.com/o/imagens_repositorio_git%2Fgit_stepWise%2FScreenshot_20241118_082903.png?alt=media&token=63d71700-9e97-4856-8b54-1bfab9060d36)
+![Screenshot 16](https://firebasestorage.googleapis.com/v0/b/projeto-saude-e-bem-estar.appspot.com/o/imagens_repositorio_git%2Fgit_stepWise%2FScreenshot_20241118_082816.png?alt=media&token=7b50fc81-f480-484c-b0a6-c0423057abfb)
 
