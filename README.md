@@ -1,6 +1,12 @@
-# **Step Wise** - Tecnologia em Saúde e Bem-Estar
+## **Step Wise** - Tecnologia em Saúde e Bem-Estar
 
-**Step Wise** é um aplicativo inovador, desenvolvido como parte de um projeto acadêmico, voltado para promover a saúde pública. Ele oferece ferramentas inteligentes para que os usuários possam criar e acompanhar **treinamentos físicos** e **dietas personalizadas**, além de realizar avaliações detalhadas da saúde, tudo de maneira prática e eficiente.
+<div style="display: flex; align-items: center; gap: 20px;">
+
+<p>
+<strong>Step Wise</strong> é um aplicativo inovador, desenvolvido como parte de um projeto acadêmico, voltado para promover a saúde pública. Ele oferece ferramentas inteligentes para que os usuários possam criar e acompanhar <strong>treinamentos físicos</strong> e <strong>dietas personalizadas</strong>, além de realizar avaliações detalhadas da saúde, tudo de maneira prática e eficiente.
+</p>
+
+</div>
 
 ---
 
@@ -58,6 +64,29 @@ Se o **Step Wise** alcançar boa aceitação e contribuições significativas, o
 
 ---
 
+## Link para Visualizar um PDF
+
+Você pode visualizar ou baixar o arquivo clicando abaixo:
+
+## 📂 **Relatórios Disponíveis**
+
+- [Treinamento do Usuário](https://firebasestorage.googleapis.com/v0/b/projeto-saude-e-bem-estar.appspot.com/o/imagens_repositorio_git%2Fgit_stepWise%2FTreinamentoUsuario20241116_222907.pdf?alt=media&token=eaa5e4ee-0502-4615-9e1d-84f08a60d0c8)  
+  *(Clique para abrir o PDF em uma nova aba)*
+
+- [Relatório de Acompanhamento](https://firebasestorage.googleapis.com/v0/b/projeto-saude-e-bem-estar.appspot.com/o/imagens_repositorio_git%2Fgit_stepWise%2FRelatorioAcompanhamento_20241116_201649.pdf?alt=media&token=9aad9fcc-2554-485a-b73d-1b39603edb43)  
+  *(Clique para abrir o PDF em uma nova aba)*
+
+- [Dieta do Usuário](https://firebasestorage.googleapis.com/v0/b/projeto-saude-e-bem-estar.appspot.com/o/imagens_repositorio_git%2Fgit_stepWise%2FDietaUsuario_20241116_222707.pdf?alt=media&token=7cbd2795-17d5-440c-a105-28d169a8b1a1)  
+  *(Clique para abrir o PDF em uma nova aba)*
+
+
+---
+
 ## 📊 **Contribuições e Desenvolvimento**
 
 Este é um projeto acadêmico em constante evolução. Caso tenha interesse em contribuir, envie sugestões, relacione problemas encontrados ou crie um Pull Request.
+
+# **Step Wise** - Tecnologia em Saúde e Bem-Estar
+![Ícone do Aplicativo Step Wise](https://firebasestorage.googleapis.com/v0/b/projeto-saude-e-bem-estar.appspot.com/o/imagens_repositorio_git%2Fgit_stepWise%2Ficone_app_stepwise2.png?alt=media&token=74120d72-45c7-4e8e-ae62-89bb6b67eff8)
+
+
