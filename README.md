@@ -100,3 +100,13 @@ Aqui estão as capturas de tela do projeto:
 ![Screenshot 15](https://firebasestorage.googleapis.com/v0/b/projeto-saude-e-bem-estar.appspot.com/o/imagens_repositorio_git%2Fgit_stepWise%2FScreenshot_20241118_082903.png?alt=media&token=63d71700-9e97-4856-8b54-1bfab9060d36)
 ![Screenshot 16](https://firebasestorage.googleapis.com/v0/b/projeto-saude-e-bem-estar.appspot.com/o/imagens_repositorio_git%2Fgit_stepWise%2FScreenshot_20241118_082816.png?alt=media&token=7b50fc81-f480-484c-b0a6-c0423057abfb)
 
+
+
+<p xmlns:cc="http://creativecommons.org/ns#" >  <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;"> O Step Wise está sob a licença Creative Commons e é protegido por todas as leis internacionais e nacionais relativas a direitos autorais, comerciais e industriais. Licença: Atribuição-NãoComercial-SemDerivações-CC BY-NC-ND 4.0 Internacional. </a></p>
+
+<p xmlns:cc="http://creativecommons.org/ns#" >  <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;"> The Step Wise is under the Creative Commons license and is protected by all international and national laws regarding copyright, commercial, and industrial rights. License: Attribution-NonCommercial-NoDerivatives-CC BY-NC-ND 4.0 International. </a></p>
+
+<p xmlns:cc="http://creativecommons.org/ns#" > <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">
+<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/nc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/nd.svg?ref=chooser-v1" alt=""></a></p>
+
+
